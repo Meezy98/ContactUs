@@ -12,7 +12,7 @@ spring:
     datasource:
         url: jdbc:h2:mem:testdb
         username: sa
-        password: password
+        password: A3-7ZPWXM-XX999P-9HKWB-ZYMZH-NE3RZ-R8XW7
         driverClassName: org.h2.Driver
         continue-on-error: true
     h2:
