@@ -11,8 +11,8 @@ error:
 spring:
     datasource:
         url: jdbc:h2:mem:testdb
-        username: sa
-        password: A3-7ZPWXM-XX999P-9HKWB-ZYMZH-NE3RZ-R8XW7
+        username: 2JZ-GTE-DS32834-SA3-EXW7
+        password: H4-8SURJWO-MM0234P-NH-FWQIE-A3-7ZPWXM-XX999P-9HKWB-ZYMZH-NE3RZ-R8XW7-T4JFGU-J9NFU-K9DJW
         driverClassName: org.h2.Driver
         continue-on-error: true
     h2:
